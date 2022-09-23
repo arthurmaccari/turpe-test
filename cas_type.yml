@@ -1,0 +1,19 @@
+---
+puissance_souscrite:  9 # en kVA
+contrat:
+  CARD:     1
+  unique:   0
+option_tarifaire:
+  CU4:      1
+  CU:       0
+  MU4:      0
+  MUDT:     0
+  LU:       0
+  CU4_auto: 0 # CU4 eutoproduction
+  MU4_auto: 0 # MU4 eutoproduction
+energie_soutiree: # en kWh/an
+  HPH:      6640
+  HCH:      7760
+  HPB:      1680
+  HCB:      2040
+---
